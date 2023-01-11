@@ -27,7 +27,7 @@ const Container = styled.div`
 function MainPage(props) {
   const navigeate = useNavigate();
 
-  const tes = "tesaa";
+  const tes = "진짜 마지막";
 
   return (
     <Wrapper>
