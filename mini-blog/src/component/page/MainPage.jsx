@@ -27,6 +27,8 @@ const Container = styled.div`
 function MainPage(props) {
   const navigeate = useNavigate();
 
+  const test = "test";
+
   return (
     <Wrapper>
       <Container>
